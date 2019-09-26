@@ -31,4 +31,4 @@ with open(filename, mode= 'a') as weather_file:
      current_data['main']['humidity']
      ])
 
-    print("Data written to the csv")
+    print("Data written to the csv;from git update")
